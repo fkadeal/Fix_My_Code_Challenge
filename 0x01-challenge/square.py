@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" codig is gagata """
 
 class square:
     """ class square """
